@@ -1,5 +1,10 @@
 # WashU_SP2020.CSE517A_Machine-Learning
 
+**Aim**: Understand advanced Machine Learning methods and techniques.  
+Rather than only applying machine learning methods such as scikit learn, in this class, we construct codes and methods from scrach. Thus, this class gives me a more solid understanding in machine learning.  
+
+
+
 ## Project 1: Structural Risk Minimization
 Building an email spam filter.  
 
