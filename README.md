@@ -6,7 +6,7 @@ Rather than only applying machine learning methods such as scikit learn, in this
 
 
 ## Project 1: Structural Risk Minimization
-Building an email spam filter.  
+**Building an email spam filter**  
 
 1. implement the loss functions:  
   Ridge Regression  
@@ -22,7 +22,7 @@ Building an email spam filter.
 6. make prediction  
   
  ## Project 2: Naïve Bayes
- Implement Naïve Bayes to predict if a name is male or female  
+**Implement Naïve Bayes to predict if a name is male or female**  
 1. compute P(X|Y)  
 2. compute P(Y)  
 3. compute log probability log P(Y|X = x1)  
